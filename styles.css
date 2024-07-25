@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 /*INICIO BTN WHATSAPP*/
 .float {
     position: fixed;
@@ -232,6 +233,46 @@ h1{
   }
 
 
-
-
 /*FIN DETALLES DE PRODUCTO*/
+
+/*INICIO CONTACT FORM*/
+  /* .contact-form {
+    width: 50%;
+    margin: auto;
+    padding: 40px;
+    background: #efefef;
+    margin-top: 80px;
+    border-radius: 5px;
+    margin-bottom: 80px;
+  }
+
+  .site-form {
+    width: 93%;
+    border: none;
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+
+  .contact-btn {
+    width: 100%;
+    border: none;
+    padding: 15px;
+    background: blue;
+    color: #fff;
+    border-radius: 5px;
+  }
+
+  .padding{
+    padding-bottom: 60px;
+  }
+
+  .contact-form h2 {
+    margin-bottom: 35px;
+  } */
+/*FIN CONTACT FORM*/
+
+.formulario {
+    margin-top: 20px;
+    padding-bottom: 15px;
+}
